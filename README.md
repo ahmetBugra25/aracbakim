@@ -1,3 +1,4 @@
+!!NOT: Uygulama Google Play Store üzerinde yayınlanacağı için uygulamanın kodları paylaşılmamıştır.
 🚗 Araç Bakım: Modern Android Uygulaması Yayında! 🎉
 
 Merhaba LinkedIn topluluğu! 👋
