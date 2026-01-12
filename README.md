@@ -1,7 +1,7 @@
 !!NOT: Uygulama Google Play Store üzerinde yayınlanacağı için uygulamanın kodları paylaşılmamıştır.
 🚗 Araç Bakım: Modern Android Uygulaması Yayında! 🎉
 
-Merhaba LinkedIn topluluğu! 👋
+Merhaba Github topluluğu! 👋
 
 Uzun süredir üzerinde çalıştığım "Araç Bakım" uygulamasını Google Play Store'da yayınlamanın heyecanını yaşıyorum! 🚀
 
